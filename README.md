@@ -78,7 +78,7 @@
 
 ---
 
-### 📝 [notion-blog](https://github.com/Hyung-98/Dashboard)
+### 📝 [Dashboard](https://github.com/Hyung-98/Dashboard)
 > 한국투자증권 API를 활용한 개인자산관리 대시보드 - **[자산관리대시보드](https://main.d3ctoqrfg8zs7q.amplifyapp.com/)**
 
 - `Next.js` `TypeScript`
