@@ -78,8 +78,8 @@
 
 ---
 
-### 📝 [notion-blog](https://github.com/Hyung-98/notion-blog)
-> Notion API를 CMS로 활용한 개인 블로그
+### 📝 [notion-blog](https://github.com/Hyung-98/Dashboard)
+> 한국투자증권 API를 활용한 개인자산관리 대시보드 - **[자산관리대시보드](https://main.d3ctoqrfg8zs7q.amplifyapp.com/)**
 
 - `Next.js` `TypeScript`
 
@@ -95,14 +95,10 @@
 ### 🌤 [WeatherChart](https://github.com/Hyung-98/WeatherChart)
 > 날씨 데이터 시각화 앱
 
-- `TypeScript`
-
 ---
 
 ### 📚 [FRONT-END](https://github.com/Hyung-98/FRONT-END)
 > 프론트엔드 학습 내용 및 실무 경험을 정리한 문서 레포지토리
-
-- `TypeScript`
 
 ---
 
