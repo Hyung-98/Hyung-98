@@ -69,7 +69,7 @@
 ## 🚀 Personal Projects
 
 ### 🤖 [ChatbotSocket](https://github.com/Hyung-98/ChatbotSocket)
-> Claude API + Gemini API 기반 AI 개인 비서 챗봇 — **[AI챗봇]([http://chatbotsocket.com](https://chatbotsocket-production.up.railway.app))**
+> Claude API + Gemini API 기반 AI 개인 비서 챗봇 — **[AI챗봇]((https://chatbotsocket-production.up.railway.app))**
 
 - SSE(Server-Sent Events)로 실시간 스트리밍 응답 구현
 - 대화 세션 관리, 시스템 프롬프트 커스터마이징 기능
